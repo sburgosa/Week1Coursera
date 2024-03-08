@@ -9,6 +9,8 @@ header {
 
 nav {
     background-color: lightgrey;
+    display: flex;
+    flex-direction: row;
 }
 
 main {
